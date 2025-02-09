@@ -1,0 +1,98 @@
+.container {
+  width: 1200px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+.qwe {
+  display: flex;
+}
+.header-ul {
+  display: flex;
+  list-style: none;
+  font-family: "nunito";
+}
+.header-h1 {
+  color: blue;
+  padding-right: 150px;
+}
+.header-a {
+  color: blue;
+  margin-left: 70px;
+}
+.ul {
+  display: flex;
+  list-style: none;
+  font-family: "nunito";
+  font-size: 20px;
+  padding-bottom: 30px;
+}
+.ww {
+  font-family: "nunito";
+  font-size: 30px;
+  color: blue;
+  padding-left: 400px;
+  padding-top: 50px;
+}
+.h2 {
+  display: flex;
+  font-family: "nunito";
+  font-size: 30px;
+  padding-left: 400px;
+  padding-top: 30px;
+}
+.pp {
+  display: flex;
+  font-family: "nunito";
+  font-size: 20px;
+  width: 950px;
+  padding-left: 350px;
+}
+.hu {
+  font-family: "nunito";
+  display: flex;
+  list-style: none;
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+.hl {
+  padding-left: 50px;
+}
+.hp {
+  font-size: 20px;
+}
+.ho {
+  font-size: 25px;
+}
+.hh {
+  font-family: "nunito";
+  font-size: 30px;
+  width: 1000px;
+  padding-left: 410px;
+  color: blue;
+}
+.fu {
+  display: flex;
+  list-style: none;
+  font-family: "nunito";
+  padding-bottom: 80px;
+}
+.fh {
+  font-family: "nunito";
+  color: blue;
+  width: 1000px;
+  padding-left: 410px;
+  font-size: 30px;
+}
+.fh4 {
+  font-size: 30px;
+  padding-top: 15px;
+}
+.fp {
+  font-size: 20px;
+}
+.ul3 {
+  font-family: "nunito";
+}
+.lili {
+  padding-top: 10px;
+}
