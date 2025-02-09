@@ -1,0 +1,49 @@
+.container {
+  width: 1200px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+.qwe {
+  display: flex;
+}
+.header-ul {
+  display: flex;
+  list-style: none;
+  font-family: "nunito";
+}
+.header-h1 {
+  color: blue;
+  padding-right: 150px;
+}
+.header-a {
+  color: blue;
+  margin-left: 70px;
+}
+.ss {
+  font-family: "nunito";
+  width: 500px;
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+.text {
+  display: flex;
+  list-style: none;
+  font-family: "nunito";
+}
+.text-li {
+  margin-right: 50px;
+}
+.text-h2 {
+  font-family: "Nunito";
+  color: blue;
+  font-weight: 600;
+  padding-top: 50px;
+  padding-bottom: 100px;
+}
+.footer-ul {
+  font-family: "nunito";
+  list-style: none;
+}
+.li {
+  padding-top: 10px;
+}
