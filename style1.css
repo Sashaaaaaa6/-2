@@ -1,0 +1,57 @@
+.container {
+  width: 1200px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+.qwe {
+  display: flex;
+}
+.header-ul {
+  display: flex;
+  list-style: none;
+  font-family: "nunito";
+}
+.header-h1 {
+  color: blue;
+  padding-right: 150px;
+}
+.header-a {
+  color: blue;
+  margin-left: 70px;
+}
+.main-h2 {
+  display: flex;
+  width: 500px;
+  font-family: "nunito";
+}
+.main-ul {
+  display: flex;
+  list-style: none;
+  padding-top: 50px;
+  font-family: "nunito";
+}
+.h3 {
+  color: blue;
+}
+.li {
+  margin-right: 80px;
+}
+.ul2 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  grid-column-gap: 20px;
+  grid-row-gap: 020px;
+  list-style: none;
+}
+.img {
+  width: 310px;
+  height: 250px;
+}
+.ul3 {
+  padding-top: 100px;
+  font-family: "nunito";
+}
+.lili {
+  padding-top: 10px;
+}
