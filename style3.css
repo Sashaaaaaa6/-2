@@ -1,0 +1,21 @@
+.container {
+  width: 1200px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+.qwe {
+  display: flex;
+}
+.header-ul {
+  display: flex;
+  list-style: none;
+  font-family: "nunito";
+}
+.header-h1 {
+  color: blue;
+  padding-right: 150px;
+}
+.header-a {
+  color: blue;
+  margin-left: 70px;
+}
