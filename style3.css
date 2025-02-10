@@ -19,3 +19,31 @@
   color: blue;
   margin-left: 70px;
 }
+.h2 {
+  font-family: "nunito";
+  font-size: 30px;
+  width: 1000px;
+  padding-left: 410px;
+  padding-bottom: 15px;
+  color: blue;
+}
+.pp {
+  font-family: "nunito";
+  font-size: 20px;
+  width: 1000px;
+  padding-left: 100px;
+  padding-bottom: 70px;
+}
+.footer-ul {
+  font-family: "nunito";
+  list-style: none;
+}
+.li {
+  padding-top: 10px;
+}
+.aa {
+  font-family: "nunito";
+  font-size: 30px;
+  padding-top: 30px;
+  color: blue;
+}
