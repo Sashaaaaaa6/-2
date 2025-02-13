@@ -45,5 +45,27 @@
   list-style: none;
 }
 .li {
-  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.ii:hover {
+  color: gold;
+  text-decoration: none;
+}
+.header-a:hover {
+  color: gold;
+}
+body {
+  background-color: lightgray;
+}
+.ppp {
+  color: blue;
+}
+.ppp:hover {
+  color: gold;
+}
+.ss:hover {
+  color: blue;
+}
+.pp::first-letter {
+  color: blue;
 }

@@ -55,3 +55,22 @@
 .lili {
   padding-top: 10px;
 }
+.ii:hover {
+  color: gold;
+  text-decoration: none;
+}
+.header-a:hover {
+  color: gold;
+}
+.ppp {
+  color: blue;
+}
+.ppp:hover {
+  color: gold;
+}
+.main-h2:hover {
+  color: blue;
+}
+body {
+  background-color: lightgray;
+}

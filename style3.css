@@ -47,3 +47,19 @@
   padding-top: 30px;
   color: blue;
 }
+.ii:hover {
+  color: gold;
+  text-decoration: none;
+}
+.header-a:hover {
+  color: gold;
+}
+body {
+  background-color: lightgrey;
+}
+.ppp {
+  color: blue;
+}
+.ppp:hover {
+  color: gold;
+}

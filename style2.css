@@ -96,3 +96,31 @@
 .lili {
   padding-top: 10px;
 }
+.ii:hover {
+  color: gold;
+  text-decoration: none;
+}
+.header-a:hover {
+  color: gold;
+}
+.ppp {
+  color: blue;
+}
+.ppp:hover {
+  color: gold;
+}
+body {
+  background-color: lightgrey;
+}
+.pp:hover {
+  color: blue;
+}
+.aa::first-line {
+  color: blue;
+}
+.hp::first-line {
+  color: blue;
+}
+.fp::first-line {
+  color: blue;
+}
