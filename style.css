@@ -83,3 +83,16 @@ body {
     transform: translateY(0);
   }
 }
+.first {
+  display: flex;
+  list-style: none;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+.uiu {
+  margin-right: 150px;
+}
+.img {
+  width: 300px;
+  height: 250px;
+}

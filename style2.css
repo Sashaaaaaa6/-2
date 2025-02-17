@@ -75,16 +75,16 @@
   list-style: none;
   font-family: "nunito";
   padding-bottom: 80px;
+  justify-content: center;
 }
 .fh {
   font-family: "nunito";
   color: blue;
-  width: 1000px;
-  padding-left: 410px;
   font-size: 30px;
+  text-align: center;
 }
 .fh4 {
-  font-size: 30px;
+  font-size: 25px;
   padding-top: 15px;
 }
 .fp {
